@@ -1,13 +1,15 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+<img src="https://i.pinimg.com/originals/cb/0d/13/cb0d139e178018df8b3e778369395ac7.gif" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Avinash Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavinash123&label=Profile%20views&color=0e75b6&style=flat" alt="yadavinash123" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Web Technology**
 
 - 📫 How to reach me **yadavinash123@gmail.com**
 
@@ -28,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavinash123&show_icons=true&locale=en" alt="yadavinash123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavinash123&" alt="yadavinash123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavinash123&" alt="" /></p>
