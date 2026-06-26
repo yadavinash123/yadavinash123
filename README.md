@@ -247,27 +247,16 @@
 
 ## 🚀 Featured Projects
 
-> 💡 *Replace the repo names below with your actual repository names.*
 
 <div align="center">
 
-<a href="https://github.com/yadavinash123/YOUR_FULLSTACK_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavinash123&repo=YOUR_FULLSTACK_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&icon_color=a78bfa&description_lines_count=2" alt="Full Stack Project"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/yadavinash123/YOUR_REACT_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavinash123&repo=YOUR_REACT_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&icon_color=a78bfa&description_lines_count=2" alt="React Project"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/yadavinash123/YOUR_FASTAPI_REPO">
+<!--<a href="https://github.com/yadavinash123/YOUR_FASTAPI_REPO">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavinash123&repo=YOUR_FASTAPI_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&icon_color=a78bfa&description_lines_count=2" alt="FastAPI Project"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/yadavinash123/YOUR_ODOO_REPO">
+&nbsp;&nbsp; -->
+ <!-- <a href="https://github.com/yadavinash123/BudgetAlertOdooCustomModule">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavinash123&repo=YOUR_ODOO_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0&icon_color=a78bfa&description_lines_count=2" alt="Odoo Project"/>
-</a>
+</a> -->
 
 </div>
 
@@ -279,9 +268,7 @@
 
 |  🏗️ Project  |  ⚙️ Tech Stack  |  📝 Description  |  🔗  |
 |:---|:---|:---|:---:|
-| **Full Stack Web App** | React • Node.js • Express • MongoDB | Scalable full-stack application with auth, REST APIs, and real-time features | [→](https://github.com/yadavinash123) |
-| **React Dashboard** | React • TypeScript • Tailwind CSS • Chart.js | Modern admin dashboard with dynamic charts, dark mode & role-based access | [→](https://github.com/yadavinash123) |
-| **FastAPI Backend Service** | Python • FastAPI • PostgreSQL • SQLAlchemy | High-performance async REST API with JWT auth, rate limiting & OpenAPI docs | [→](https://github.com/yadavinash123) |
+| **FastAPI Backend Service** | Python • FastAPI • MySQL • MilvusDB | High-performance async REST API with JWT auth, rate limiting & OpenAPI docs | [→](https://github.com/yadavinash123) |
 | **Odoo Custom Module** | Python • Odoo 19 • XML • QWeb | Custom ERP module with analytic budget enforcement & REST API integration | [→](https://github.com/yadavinash123) |
 
 </div>
@@ -313,13 +300,13 @@
 
 <br/>
 
-[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/YOUR_TWITTER_HANDLE)
+<!--[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://x.com/YOUR_TWITTER_HANDLE)
 &nbsp;
 [![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d1117)](https://dev.to/yadavinash123)
 &nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=0d1117)](https://stackoverflow.com/users/YOUR_ID)
 
-<br/>
+<br/> -->
 
 </div>
 
